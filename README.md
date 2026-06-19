@@ -582,7 +582,7 @@ During this internship project, I gained practical experience in:
 
 ## Author
 
-**Name:** Your Name
+**Name:** Shrinidhi
 **Internship:** RDL Technologies Ltd.
 **Year:** 2026
 
