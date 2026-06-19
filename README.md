@@ -1,4 +1,4 @@
-````md
+
 # Embedded Web Server using STM32 & Ethernet
 
 ## RDL Technologies Ltd. Internship Project
