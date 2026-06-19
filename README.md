@@ -584,9 +584,9 @@ During this internship project, I gained practical experience in:
 
 **Name:** Shrinidhi
 
-**Internship:** RDL Technologies Ltd.
+**Internship:** RDL Technologies Ltd. Adyar, Mangalore
 
-**Year:** 2026
+**Year:** 2025
 
 
 
