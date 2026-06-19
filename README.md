@@ -18,7 +18,7 @@ The internship project was divided into three tasks:
 - **Task 3:** HTML to C Byte Array Conversion using Perl
 
 
- project link https://drive.google.com/drive/folders/1RZzaBCIaGQTX-SmTGZjgAxKQBEn_lWZZ?usp=drive_link
+ project link [https://drive.google.com/drive/folders/1RZzaBCIaGQTX-SmTGZjgAxKQBEn_lWZZ?usp=drive_link](https://drive.google.com/drive/folders/1RZzaBCIaGQTX-SmTGZjgAxKQBEn_lWZZ?usp=drive_link)
 ---
 
 # Hardware Used
